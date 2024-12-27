@@ -20,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		208488C62D1F191000E709B9 /* Turkey */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Turkey; sourceTree = BUILT_PRODUCTS_DIR; };
+		208488D02D1F192900E709B9 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -44,6 +45,7 @@
 		208488BD2D1F191000E709B9 = {
 			isa = PBXGroup;
 			children = (
+				208488D02D1F192900E709B9 /* README.md */,
 				208488C82D1F191000E709B9 /* Turkey */,
 				208488C72D1F191000E709B9 /* Products */,
 			);
